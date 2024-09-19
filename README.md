@@ -1,13 +1,14 @@
 Desafío - Like Me (Parte II)
 
-- El proyecto de backend es: back-end_like-me Para ejecutarlo:
-  npm install
-  npm run dev
+- El proyecto de backend es: back-end_like-me
+- Para ejecutarlo:
+  1. npm install
+  2. npm run dev
   
-- El proyecto de frontend es: front-end_like-me Para ejecutarlo:
-  npm install
-  npm run dev
-
+- El proyecto de frontend es: front-end_like-me
+- Para ejecutarlo:
+  1. npm install
+  2. npm run dev
 
 ![image](https://github.com/user-attachments/assets/d0cbefdb-b1b3-4084-80b0-69d3c6467bee)
 
